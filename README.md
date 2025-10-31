@@ -3,7 +3,7 @@
 ## git and vs code
 - installing git
 - using 'git clone repository.git' to hard copy github repository
-- remove .git folder (hidden in the repository)
+- rd .git (remove .git folder (hidden in the repository))
 - git config --global user.name 'name'
 - git config --global user.email 'email'
 - git init
